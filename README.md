@@ -13,6 +13,6 @@ How to run a program with MPI:
 
 $ mpirun -np numberOfWorkers programName
 
-Example
+Example:
 
-$ mprun -np 3 myprogram
+$ mpirun -np 3 myprogram
